@@ -9,10 +9,13 @@ This repository contains executable (read-only) file for game and whole project 
 ## Requirements
 
 CPU: Intel Pentium / AMD Athlon 
-Memory RAM: 1GB	                
+
+RAM: 1GB	      
+
 Free Space HDD: 150MB
 
 ## LICENSE
+
 See `LICENSE` file.
 
 
