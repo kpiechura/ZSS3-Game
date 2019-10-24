@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skrypty\Tworcy.cs">
+    <Files>
+      <File FileName="Assets\Skrypty\Pytanie.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Tworcy.cs" Line="108" Column="43" />
+      <File FileName="Assets\Skrypty\Przegrana.cs" Line="28" Column="35" />
+      <File FileName="Assets\Skrypty\Zla_Odpowiedz.cs" Line="1" Column="1" />
+      <File FileName="Assets\Skrypty\Wygrana.cs" Line="24" Column="57" />
+      <File FileName="Assets\Skrypty\Menu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

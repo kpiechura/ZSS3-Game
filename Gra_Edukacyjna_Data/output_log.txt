@@ -1,0 +1,39 @@
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 26.21.14.3630]
+    Renderer: NVIDIA GeForce GTX 760
+    Vendor:   NVIDIA
+    VRAM:     2007 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 3.5.6f4
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 190. Operation took 3.938800 ms.
+Platform assembly: C:\Users\orpha\Documents\Programs C++\Game ZSS3\Gra_Edukacyjna_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 175. Operation took 4.202600 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4518. Operation took 6.757900 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 194. Operation took 4.829100 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 160. Operation took 15.487400 ms.
